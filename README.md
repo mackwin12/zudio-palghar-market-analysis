@@ -54,3 +54,13 @@ Open `sql/analysis_queries.sql` in SQLite, DB Browser for SQLite, or adapt it to
 
 ## Important next step for a real business recommendation
 Replace the demo CSV with verified data such as actual store footfall, rent quotations, competitor locations, local population data, and customer surveys. Document sources, dates, and assumptions before making conclusions.
+## Project Visualizations
+
+### 1. Sales Potential by Locality
+![Sales Potential](outputs/sales_potential_by_locality.png)
+
+### 2. Monthly Sales Trend
+![Monthly Sales Trend](outputs/monthly_sales_trend.png)
+
+### 3. Rent vs Sales
+![Rent vs Sales](outputs/rent_vs_sales.png)
